@@ -1,0 +1,12 @@
+title: "NFDI4DS hackathons at ZB MED"
+remote_theme: pmarsceill/just-the-docs
+logo: ./nfdi4ds_zbmed.png
+search_enabled: false
+aux_links:
+  "Home": "../index"
+footer_content: "Follow us on Mastodon @ZBMED@mastodon.social @NFDI4DS@nfdi.social"
+
+
+description: "NFDI4DS hackathons at ZB MED"
+github_username:  ljgarcia
+email: ljgarcia@zbmed.de
